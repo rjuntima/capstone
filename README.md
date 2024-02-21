@@ -1,2 +1,2 @@
-# capstone
+# Capstone
 for our fire project
